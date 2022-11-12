@@ -8,12 +8,12 @@
 
 [课程1-3](/Course1-3.pdf) `神经网络和深度学习` `改善神经网络` `结构化机器学习项目`
 
-<img src="show/1.png" length=400> <img src="show/2.png" length=400>
+<img src="show/1.png" length=200> <img src="show/2.png" length=200>
 
 [课程4](/Course4_CNN.pdf) `卷积神经网络`
 
-<img src="show/3.png" length=400> <img src="show/4.png" length=400> 
+<img src="show/3.png" length=200> <img src="show/4.png" length=200> 
 
 [课程5](/Course5_RNN.pdf) `序列模型`
 
-<img src="show/5.png" length=400> <img src="show/6.png" length=400> 
+<img src="show/5.png" length=200> <img src="show/6.png" length=200> 
