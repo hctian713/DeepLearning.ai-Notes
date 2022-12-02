@@ -18,4 +18,4 @@
 
 <img src="show/5.png" width=300> <img src="show/6.png" width=300> 
 
-$\mathbf{R}_t = \sigma()$ 
+$\mathbf{R}_t = \sigma(\mathbf{X}*t)$ 
