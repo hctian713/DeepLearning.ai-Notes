@@ -18,4 +18,4 @@
 
 <img src="show/5.png" width=300> <img src="show/6.png" width=300> 
 
-$\mathbf{R}_t = \sigma(\mathbf{X}*t)$ 
+$\mathbf{R}_t = \sigma(\mathbf{X}*t \mathbf{W}*{xr} + \mathbf{H}_{t-1} \mathbf{W}_{hr} + \mathbf{b}_r)$ 
